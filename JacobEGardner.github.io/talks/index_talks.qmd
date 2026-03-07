@@ -1,0 +1,44 @@
+---
+layout: page
+title: Oral Presentations
+excerpt: Talks I've Given
+execute:
+  freeze: true  # never re-render during project render
+engine: knitr 
+resources:
+  - "pres_final.pdf"
+pres:
+  pdf: "pres_final.pdf"
+---
+
+**Gardner J.E.** “Research Proposal: HPV Infection among Cambodian Patients with Head & Neck Squamous Cell Carcinoma” [Keynote Address], Cambodian Association of Oral and Maxillofacial Surgeons & Dental Implant Society of Cambodia 1st Joint Conference; Phnom Penh, Cambodia (2024).
+
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg pres-download" href="`r rmarkdown::metadata$pres$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Presentation Slides
+  </a>
+</p>
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$pres$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
+</div>
+```

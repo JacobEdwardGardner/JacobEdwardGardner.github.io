@@ -1,0 +1,87 @@
+---
+title: Poster Presentations 
+execute:
+  freeze: true  # never re-render during project render
+engine: knitr 
+resources:
+  - "ICEC.pdf"
+  - "Varian.pdf"
+Varian:
+  pdf: "Varian.pdf"
+ICEC:
+  pdf: "ICEC.pdf"
+---
+
+**Gardner J.E.**, Eav S., Rath B., Bunpa P., Mel M., Ath V., Thou S., Berchuck A., Sherertz T. “Characteristics and Early Outcomes of the First 100 Patients with Cervical Cancer at the National Cancer Center of Cambodia,” American Radium Society 103rd Annual Meeting; Maui, HI (2021). (Poster presented by Gardner, J.E.)
+
+**Gardner J.E.**, Eav S., Rath B., Thou S., Yi R., Pluot M., Aun K., Phok R., Berchuck A., Sun R., Jung K., Jung J., Sherertz T. “Human Papillomavirus Infection among Cambodian Patients with Cervical Cancer,” American Radium Society 103rd Annual Meeting; Maui, HI (2021). (Poster presented by Gardner, J.E.)
+
+**Gardner J.E.**, Eav S., Pluot M., Bunpa P., Ngoun S., Winer R., Lin J., Hawes S., Berchuck A., Sherertz T. “HPV Subtyping of Cervical Cancer in Cambodia,” Varian Research Partnership Symposium; Chicago, IL (2019). (Poster Presented by Gardner J.E. & Bunpa P.)
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg pres-download" href="`r rmarkdown::metadata$Varian$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Poster
+  </a>
+</p>
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$Varian$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
+</div>
+```
+
+
+**Gardner J.E.**, Eav S., Pluot M., Winer R., Lin J., Hawes S., Berchuck A., Sherertz T. “HPV Subtyping of Cervical Cancer in Cambodia,” ICEC Young Investigators’ Conference: Pioneering Action for Global Cancer Care; Washington D.C. (2019). (Poster presented by Sherertz T.)
+
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg pres-download" href="`r rmarkdown::metadata$ICEC$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Poster
+  </a>
+</p>
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$ICEC$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
+</div>
+```
+
+**Gardner J.E.**, Giattino C.M., Roberts K.C., Sbahi F.M., Berger M., & Woldorff M.G. “Analyzing Intraoperative EEG for Predictors of POCD and Delirium” Duke Center for the Study of Aging and Human Development Research & Education Retreat; Durham, NC (2017). (Poster presented by Gardner, J.E.)
+
+**Gardner J.E.**, Giattino C.M., Roberts K.C., Sbahi F.M., Berger M., & Woldorff M.G. “Intraoperative EEG Correlates of Pre- & Postoperative Cognitive Function” Cognitive Neuroscience Society Annual Meeting; San Francisco, CA (2017). (Poster presented by Gardner, J.E.)
+
+**Gardner J.E.**, Giattino C.M., Roberts K.C., Sbahi F.M., Berger M., & Woldorff M.G. “Intraoperative EEG Correlates of Pre- & Postoperative Cognitive Function” Duke Center for the Study of Aging and Human Development Research & Education Retreat; Durham, NC (2016). (Poster presented by Gardner, J.E.)
