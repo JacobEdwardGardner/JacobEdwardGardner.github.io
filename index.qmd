@@ -1,9 +1,9 @@
 
 ---
 about:
-  template: jolla
+  template: broadside
   id: about-block
-  image: "img/headshot.jpg"
+  image: img/headshot.jpg
   links:
     - icon: linkedin
       text: LinkedIn
@@ -13,16 +13,39 @@ about:
       href: https://orcid.org/0000-0002-9692-2979
     - icon: envelope
       text: Email
-      href: "mailto:jeg153@case.edu"  
+      href: "mailto:jacgardner@montefiore.org"  
 ---
 
 ::: {#about-block}
 :::
 
-# Welcome to my website!
+I am a General Surgery PGY-1 Resident at Montefiore Medical Center/Albert Einstein College of Medicine. My professional interests revolve around Surgical Oncology, Hepatopancreatobiliary Surgery, and Public/Global Health. Most of my research focuses on cancer epidemiology in developing countries. 
 
-My name is Jacob E. Gardner, and I'm a MD/MPH student at Case Western Reserve University School of Medicine in Cleveland, Ohio. I'm set to graduate in Spring 2025, at which point I hope to match into a general surgery residency program. My professional and academic interests revolve around vaccine-preventable cancers and expanding vaccination efforts as a means to address domestic and global health disparities. To that end, I have been involved in research on human papillomavirus and cervical cancer among Cambodian women since 2018. 
+## Education
 
-On this website, you will find a selection of my academic works, including peer-reviewed journal articles and poster presentations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. Please feel free to [contact me](mailto:jeg153@case.edu) if you have any questions or would like to discuss potential projects.
+Case Western Reserve University School of Medicine | Cleveland, OH
+
+Doctor of Medicine | Jul. 2020 – May. 2025
+
+Case Western Reserve University School of Medicine | Cleveland, OH
+
+Master of Public Health | Jun. 2023 – May. 2024
+
+Duke University | Durham, NC
+Bachelor of Science - Neuroscience and Philosophy | Aug. 2013 – May 2017
+
+## Work Experience
+
+Montefiore Medical Center/Albert Einstein College of Medicine, Department of General Surgery | Categorical Resident | Jul. 2025 - Present
+
+Centers for Disease Control and Prevention, National Center for Immunization and Respiratory Diseases | Research Intern | Oct. 2023 - Jun. 2024
+
+Cleveland Clinic Foundation, Lerner Research Institute, Jung Laboratory  | Clinical Research Coordinator | Apr. 2021 - Aug. 2025
+
+Calmette Hospital, National Cancer Centre of Cambodia  | Clinical Research Coordinator | Feb. 2018 - Aug. 2025
+
+
+
+On this website, you will find a selection of my academic works, including peer-reviewed journal articles and poster presentations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. Please feel free to [contact me](mailto:jacgardner@montefiore.org) if you have any questions or would like to discuss potential research projects.
 
 
