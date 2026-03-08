@@ -1,0 +1,78 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+
+# website settings
+website:
+  title: "Jacob E. Gardner, M.D./M.P.H."                                # Your name
+  description: "General Surgery PGY-1 at Montefiore Medical Center/Albert Einstein College of Medicine"   # A brief slogan (optional)
+  image: img/headshot.jpg
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    
+    # your sub-pages
+    left:
+      - text: "Journal Articles"
+        href: articles/index_article.qmd
+      - text: "Oral Presentations"
+        href: talks/index_talks.qmd
+      - text: "Poster Presentations"
+        href: posters/index_posters.qmd
+      - text: "CV"
+        href: cv/index_cv.qmd
+      - text: "News and Updates"
+        href: updates/index_updates.qmd
+    
+    # your social media handles
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jacob-gardner-10930725b/
+      - icon: 0-circle
+        aria-label: ORCID
+        href: https://orcid.org/0000-0002-9692-2979
+      - icon: envelope
+        aria-label: email
+        href: "mailto:jacgardner@montefiore.org"
+        
+  
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
+    center: |
+      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
+    right: |
+      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
