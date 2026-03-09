@@ -1,13 +1,28 @@
 .quarto-about-broadside .about-main .about-entity {
-  background-image: url("img/headshot.jpg") !important;
   background-size: contain !important;
   background-repeat: no-repeat !important;
   background-position: center center !important;
-  min-width: 260px !important;
   width: 260px !important;
-  min-height: 340px !important;
+  min-width: 260px !important;
   height: 340px !important;
+  min-height: 340px !important;
   flex: 0 0 260px !important;
-  display: block !important;
-  border: 2px solid red !important;
+}
+
+.quarto-about-broadside .about-main {
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.quarto-about-broadside .quarto-title-block {
+  margin-bottom: 0.75rem;
+}
+
+.quarto-about-broadside .about-links {
+  margin-top: 0.75rem;
+  gap: 0.9rem;
+}
+
+.quarto-about-broadside .about-contents p:first-of-type {
+  max-width: 60ch;
 }
