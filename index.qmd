@@ -1,7 +1,7 @@
 
 ---
 about:
-  template: broadside
+  template: jolla
   id: about-block
   image: img/headshot.jpg
   links:
