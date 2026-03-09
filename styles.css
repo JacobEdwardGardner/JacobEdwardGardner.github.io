@@ -33,3 +33,11 @@
 .quarto-container.page-layout-article {
   max-width: 1200px !important;
 }
+
+.columns {
+  gap: 2rem;
+}
+
+.columns h3 {
+  margin-top: 0;
+}
