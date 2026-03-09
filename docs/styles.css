@@ -1,1 +1,9 @@
-/* empty for now */
+.quarto-about-broadside .about-entity {
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  min-height: 320px !important;
+  height: 320px !important;
+  width: 260px !important;
+  max-width: 100% !important;
+}
