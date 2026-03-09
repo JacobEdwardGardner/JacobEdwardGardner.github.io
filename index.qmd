@@ -5,7 +5,7 @@ image: img/headshot.jpg
 image-alt: "Jacob Gardner headshot"
 
 about:
-  template: jolla
+  template: solana
   id: about-block
 
   links:
