@@ -1,3 +1,14 @@
-body {
-  background: pink !important;
+/* Fix broadside headshot cropping */
+
+.quarto-about-broadside .about-image img {
+  object-fit: contain !important;
+  width: 240px !important;
+  height: auto !important;
+  max-height: none !important;
+}
+
+.quarto-about-broadside .about-image {
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
 }
