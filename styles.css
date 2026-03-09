@@ -1,9 +1,13 @@
-.quarto-about-broadside .about-entity {
+.quarto-about-broadside .about-main .about-entity {
+  background-image: url("img/headshot.jpg") !important;
   background-size: contain !important;
   background-repeat: no-repeat !important;
   background-position: center center !important;
-  min-height: 320px !important;
-  height: 320px !important;
+  min-width: 260px !important;
   width: 260px !important;
-  max-width: 100% !important;
+  min-height: 340px !important;
+  height: 340px !important;
+  flex: 0 0 260px !important;
+  display: block !important;
+  border: 2px solid red !important;
 }
