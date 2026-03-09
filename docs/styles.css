@@ -26,3 +26,14 @@
 .quarto-about-broadside .about-contents p:first-of-type {
   max-width: 60ch;
 }
+
+/* widen the broadside content column */
+.quarto-about-broadside .about-contents {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+/* allow the whole layout to use more page width */
+.quarto-container.page-layout-article {
+  max-width: 1200px !important;
+}
