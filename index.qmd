@@ -4,6 +4,8 @@ about:
   template: broadside
   id: about-block
   image: img/headshot.jpg
+  image-shape: rounded
+  image-width: 12em
   links:
     - icon: linkedin
       text: LinkedIn
