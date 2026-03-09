@@ -4,6 +4,10 @@ title: "Jacob E. Gardner, M.D./M.P.H."                                # Your nam
 image: img/headshot.jpg
 image-alt: "Jacob Gardner headshot"
 
+format:
+  html:
+    css: styles.css
+
 about:
   template: broadside
   id: about-block
