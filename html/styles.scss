@@ -118,3 +118,26 @@ $btn-code-copy-color-active: $orange !default;
         }
     }
 }
+
+.quarto-about-broadside img,
+.page-about img,
+.about img {
+  object-fit: contain !important;
+  object-position: center center !important;
+  width: 260px !important;
+  height: auto !important;
+  max-height: none !important;
+  display: block !important;
+  margin: 0 auto !important;
+}
+
+.quarto-about-broadside .about-image,
+.quarto-about-broadside .about-entity,
+.page-about .about-image,
+.page-about .about-entity,
+.about .about-image,
+.about .about-entity {
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
