@@ -1,11 +1,11 @@
-.quarto-about-broadside .about-image {
+/* Fix broadside headshot cropping */
+.quarto-about-broadside .about-image img {
+  object-fit: contain !important;
+  width: auto !important;
   height: auto !important;
-  max-height: none !important;
+  max-height: 350px !important;
 }
 
-.quarto-about-broadside .about-image img {
-  height: auto !important;
+.quarto-about-broadside .about-image {
   max-height: none !important;
-  object-fit: contain !important;
-  width: 100%;
 }
