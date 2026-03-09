@@ -23,10 +23,6 @@
   gap: 0.9rem;
 }
 
-.quarto-about-broadside .about-contents p:first-of-type {
-  max-width: 60ch;
-}
-
 /* widen the broadside content column */
 .quarto-about-broadside .about-contents {
   max-width: none !important;
