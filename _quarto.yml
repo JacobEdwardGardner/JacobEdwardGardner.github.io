@@ -6,7 +6,7 @@ website:
   title: "Jacob E. Gardner, M.D./M.P.H."                                # Your name
   description: "General Surgery PGY-1 Resident at Montefiore Medical Center/Albert Einstein College of Medicine"   # A brief slogan (optional)
   image: img/headshot.jpg
-  
+
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
@@ -76,3 +76,5 @@ format:
     fig-cap-location: margin
     reference-location: margin
     footnotes-hover: true
+    css: styles.css
+  
