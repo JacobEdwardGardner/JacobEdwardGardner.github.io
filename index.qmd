@@ -25,6 +25,9 @@ about:
 ---
 
 ## Background
+I am a General Surgery PGY-1 Resident at Montefiore Medical Center/Albert Einstein College of Medicine. My professional interests revolve around Surgical Oncology, Hepatopancreatobiliary Surgery, and Public/Global Health. Most of my research focuses on cancer epidemiology in developing countries. 
+
+On this website, you will find a selection of my academic works, including peer-reviewed journal articles and poster presentations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. Please feel free to [contact me](mailto:jacgardner@montefiore.org) if you have any questions or would like to discuss potential research projects. 
 
 ::: {.columns}
 
@@ -62,3 +65,35 @@ Clinical Research Coordinator | Feb. 2018 – Aug. 2025
 :::
 
 :::
+
+/* I am a General Surgery PGY-1 Resident at Montefiore Medical Center/Albert Einstein College of Medicine. My professional interests revolve around Surgical Oncology, Hepatopancreatobiliary Surgery, and Public/Global Health. Most of my research focuses on cancer epidemiology in developing countries. Test5 
+
+## Education
+
+Case Western Reserve University School of Medicine | Cleveland, OH
+
+Doctor of Medicine | Jul. 2020 – May. 2025
+
+Case Western Reserve University School of Medicine | Cleveland, OH
+
+Master of Public Health | Jun. 2023 – May. 2024
+
+Duke University | Durham, NC
+Bachelor of Science - Neuroscience and Philosophy | Aug. 2013 – May 2017
+
+## Work Experience
+
+Montefiore Medical Center/Albert Einstein College of Medicine, Department of General Surgery | Categorical Resident | Jul. 2025 - Present
+
+Centers for Disease Control and Prevention, National Center for Immunization and Respiratory Diseases | Research Intern | Oct. 2023 - Jun. 2024
+
+Cleveland Clinic Foundation, Lerner Research Institute, Jung Laboratory  | Clinical Research Coordinator | Apr. 2021 - Aug. 2025
+
+Calmette Hospital, National Cancer Centre of Cambodia  | Clinical Research Coordinator | Feb. 2018 - Aug. 2025
+
+
+
+On this website, you will find a selection of my academic works, including peer-reviewed journal articles and poster presentations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. Please feel free to [contact me](mailto:jacgardner@montefiore.org) if you have any questions or would like to discuss potential research projects. 
+
+
+
