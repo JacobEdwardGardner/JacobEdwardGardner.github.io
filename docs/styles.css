@@ -1,0 +1,11 @@
+.quarto-about-broadside .about-image {
+  height: auto !important;
+  max-height: none !important;
+}
+
+.quarto-about-broadside .about-image img {
+  height: auto !important;
+  max-height: none !important;
+  object-fit: contain !important;
+  width: 100%;
+}
